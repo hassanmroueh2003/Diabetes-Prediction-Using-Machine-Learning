@@ -53,8 +53,6 @@ Install the following packages:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ````
 
-Or use the `requirements.txt` if available.
-
 ---
 
 ## 🚀 Usage
