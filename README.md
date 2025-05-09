@@ -39,8 +39,7 @@ diabetes-prediction/
 ├── README.md
 ├── Diabetes\_Prediction\_Hassan\_Mroueh.ipynb
 ├── diabetes.csv
-├── /images/               # (Optional) Plots or visualizations
-└── /results/              # (Optional) Model outputs or reports
+
 
 ````
 
